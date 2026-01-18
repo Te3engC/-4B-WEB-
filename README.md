@@ -40,7 +40,7 @@ sudo apt install -y python3-opencv
 
 - 注意摄像头必须插在CAMERA处
 
-![IMG_5336(1)](D:\QQ存储\IMG_5336(1).jpg)
+
 
 ```shell
 rpicam-hello
@@ -140,14 +140,8 @@ finally:
 ### 使用方法
 
 先把注册注释取消了，注册你的面部信息
-
-![365e587c-2cc3-4ebf-ab1a-0fb52b35bacc](file:///C:/Users/94807/Pictures/Typedown/365e587c-2cc3-4ebf-ab1a-0fb52b35bacc.png)
-
-![ace3112c-0eb5-4137-b7ba-a3be458537ba](file:///C:/Users/94807/Pictures/Typedown/ace3112c-0eb5-4137-b7ba-a3be458537ba.png)
-
 重新注释开始识别
 
-![2374745c-4927-4776-b481-e264895447b7](file:///C:/Users/94807/Pictures/Typedown/2374745c-4927-4776-b481-e264895447b7.png)
 
 ## 在树莓派上部署WEB服务器
 
@@ -287,7 +281,6 @@ sudo /etc/init.d/php7.0-fpm restart
 
 如果可以直接下载就apt下载，不行的话可以先下载，传输给树莓派
 
-[typecho/typecho: A PHP Blogging Platform. Simple and Powerful.](https://github.com/typecho/typecho)
 
 ```shell
 cd /home/pi
@@ -308,11 +301,6 @@ sudo chmod -R 755 /var/www/html
 
 在主机上输入树莓派的静态IP
 
-![3e39a5dc-5337-4750-b8a0-45c945a956f8](file:///C:/Users/94807/Pictures/Typedown/3e39a5dc-5337-4750-b8a0-45c945a956f8.png)
-
-![1a2ff887-941d-45ed-90a2-05209480011f](file:///C:/Users/94807/Pictures/Typedown/1a2ff887-941d-45ed-90a2-05209480011f.png)
-
-![e257bc81-4ee0-4fa1-9485-a848897ac8aa](file:///C:/Users/94807/Pictures/Typedown/e257bc81-4ee0-4fa1-9485-a848897ac8aa.png)
 
 # 建议
 
